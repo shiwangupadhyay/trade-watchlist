@@ -1,4 +1,4 @@
-/* Custom styles for Streamlit app */
+
 .streamlit-expanderHeader {
     background-color: #4CAF50 !important;
     color: white !important;
@@ -48,7 +48,7 @@
     background-color: #ff1c1c;
 }
 
-/* Responsive adjustments */
+
 @media (max-width: 768px) {
     .streamlit-expanderContent {
         padding: 5px !important;
